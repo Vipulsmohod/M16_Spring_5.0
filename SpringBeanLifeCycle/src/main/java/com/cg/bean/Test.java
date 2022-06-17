@@ -1,4 +1,4 @@
-package com.tns.bean;
+package com.cg.bean;
 
 import java.sql.SQLException;
 
